@@ -3,6 +3,7 @@
  RC Car joystick
  DC motor controlled by L298n 
  SG90 servo to turn front wheels
+ edit from android
 
 L298n
 in1 = 2;    // direction pin 1
